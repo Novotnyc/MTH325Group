@@ -1,6 +1,6 @@
 package package1;
 
-public enum Type {
+public enum Element {
 
 	FIRE, WATER, BUG, NORMAL, POISON, GROUND, ELECTRIC, FAIRY, FIGHTING,
 	PSYCHIC, GRASS, DRAGON, ROCK, DARK, GHOST, ICE, STEEL, FLYING;
