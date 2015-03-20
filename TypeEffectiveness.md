@@ -344,13 +344,13 @@ Psychic	1×
 Ice	1×
 Dragon	1×
 Fairy	1×
+Ground	1×
 ##Weak to:	
 Ghost	2×
 Dark	2×
 ##Immune to:	
 Normal	0×
 Fighting	0×
-Ground	0×
 ##Resistant to:	
 Poison	½×
 Bug	½×
